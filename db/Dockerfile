@@ -1,5 +1,5 @@
 # Use the latest MySQL image
-FROM --platform=linux/amd64 mysql:5.7
+FROM mysql
 
 # try with: FROM --platform=linux/amd64 mysql:5.7 instead of mysql:latest
 
